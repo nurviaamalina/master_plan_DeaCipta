@@ -1,5 +1,5 @@
-**Nama : Dea Cipta Ningrum Aimanta Putri
-Kelas : 2A TRPL **
+Nama : Dea Cipta Ningrum Aimanta Putri
+Kelas : 2A TRPL 
 -
 
 1. Praktikum 1
