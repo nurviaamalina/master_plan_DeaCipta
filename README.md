@@ -1,16 +1,8 @@
-# master_plan
+Nama : Dea Cipta Ningrum Aimanta Putri
+Kelas : 2A TRPL 
+1. Praktikum 1
+   ![Screenshot (1268)](https://github.com/user-attachments/assets/4df0e17a-bc8f-4432-9920-2f81e3821153)
 
-A new Flutter project.
+3. Praktikum 2
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+   ![Screenshot (1274)](https://github.com/user-attachments/assets/e6f1794b-f98f-4d9e-be69-d3ad8986a772)
